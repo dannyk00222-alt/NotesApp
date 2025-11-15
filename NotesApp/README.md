@@ -17,7 +17,9 @@ Notes App - UIKit is a simple notes app that uses Core Data framework for saving
 <h3>Screens</h3>
 <hr>
 <div style="float:left">
-<img src="Screens/screen1.gif"  width = "393" height = "852" />
+<img src="Screens/screen0.gif"  width = "393" height = "852" />
+<img src="Screens/screen1.png"  width = "393" height = "852" />
 <img src="Screens/screen2.png"  width = "393" height = "852" />
 <img src="Screens/screen3.png"  width = "393" height = "852" />
+<img src="Screens/screen4.png"  width = "393" height = "852" />
 </div>

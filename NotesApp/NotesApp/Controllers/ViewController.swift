@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  NotesApp
 //
-//  Created by Jana's MacBook Pro on 6/10/24.
-//
+ 
 
 import UIKit
 

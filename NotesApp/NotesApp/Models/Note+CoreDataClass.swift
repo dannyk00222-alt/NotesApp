@@ -2,9 +2,7 @@
 //  Note+CoreDataClass.swift
 //  NotesApp
 //
-//  Created by Jana's MacBook Pro on 6/13/24.
-//
-//
+ 
 
 import Foundation
 import CoreData

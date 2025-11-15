@@ -2,8 +2,7 @@
 //  NotesAppTests.swift
 //  NotesAppTests
 //
-//  Created by Jana's MacBook Pro on 6/10/24.
-//
+ 
 
 import XCTest
 @testable import NotesApp
